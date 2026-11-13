@@ -1,0 +1,38 @@
+﻿รวมโปรแกรมทดลองกิจกรรม — 13 พฤศจิกายน 2026
+
+มีทั้งหมด 10 ตัว:
+Roblox, MapleStory Classic World, Where Winds Meet, Honkai: Star Rail,
+Deadzone Rogue 2, Arknights: Endfield, Once Human, Firefox, FC27 และ ASPHALT LEGENDS
+
+วิธีใช้
+1. แตก ZIP ทั้งหมด และเก็บโครงสร้างโฟลเดอร์ไว้ตามเดิม
+2. เปิด Discord เดสก์ท็อปและรับภารกิจที่ต้องการ
+3. เปิดไฟล์ Start ตามชื่อที่ต้องการ ใช้ทีละตัว ปิดตัวเก่าก่อน
+4. ตรวจความคืบหน้าภารกิจใน Discord หากไม่เพิ่ม วิธีนี้ยังใช้ไม่ได้
+5. ปิดหน้าต่างเพื่อหยุดโปรแกรม
+
+ชื่อไฟล์และโฟลเดอร์ที่ตรวจจากรายการสาธารณะ Discord วันที่ 13 พ.ย. 2026:
+Roblox: robloxplayerbeta.exe
+MapleStory Classic World: mscw/maplestory.exe
+Where Winds Meet: wwm.exe
+Honkai: Star Rail: games/starrail.exe
+Deadzone Rogue 2: deadzone2steam.exe
+Arknights: Endfield: endfield.exe
+Once Human: once human/once_human.exe
+
+Firefox และ FC27 ยังไม่มีชื่อ executable ในรายการสาธารณะ
+ไฟล์สองตัวนี้คงเป็นรุ่นทดลอง ไม่ได้ยืนยันว่าแก้ปัญหา FC27 ได้แล้ว
+
+ทุกตัวผ่านการตรวจเริ่มโปรแกรมด้วย --check เท่านั้น
+ยังไม่ได้ยืนยันการตรวจจับหรือการสำเร็จภารกิจจริงใน Discord
+ตัวจับเวลาแสดงเวลาที่โปรแกรมทำงาน ไม่ใช่เปอร์เซ็นต์ภารกิจ
+นี่คือโปรแกรมจำลอง ไม่ใช่เกมจริงหรือเบราว์เซอร์จริง
+ไม่มีการเชื่อมต่อเครือข่าย ใช้รหัสผ่าน แก้ไข Discord หรือตั้งเปิดอัตโนมัติ
+มีซอร์สโค้ด ActivityTest.cs รวมไว้ให้ตรวจสอบ
+
+แหล่งข้อมูล: https://discord.com/api/v9/applications/detectable
+
+ASPHALT LEGENDS: เปิด Start ASPHALT LEGENDS.cmd
+ไฟล์: steamapps/common/Asphalt 9 Legends/Asphalt9_Steam_x64_rtl.exe
+ผ่าน --check เท่านั้น ยังไม่ได้ยืนยันการตรวจจับหรือภารกิจใน Discord
+
