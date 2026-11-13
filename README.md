@@ -8,7 +8,12 @@ Discord detection and quest completion are unverified.
 
 1. Download the project and keep its folder structure intact.
 2. Open the `Start … .cmd` launcher for the application you want to test.
-3. Run one activity test at a time. Close its window to stop it.
+3. Open additional launchers to run multiple different activities at the same time.
+   Each activity has its own window and timer. Close a window to stop only that activity.
+   Starting the same activity twice is blocked.
+
+Running multiple processes does not guarantee simultaneous Discord quest credit.
+Check each quest's progress in Discord.
 
 The window displays local elapsed time, not Discord quest progress.
 See [อ่านก่อนใช้.txt](อ่านก่อนใช้.txt) for the original Thai instructions.

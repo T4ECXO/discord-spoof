@@ -38,11 +38,11 @@ internal static class ActivityTest
         if (args.Length == 1 && args[0] == "--check") return 0;
 
         bool created;
-        using (Mutex mutex = new Mutex(true, "Local\\CodexGameActivityTest", out created))
+        using (Mutex mutex = new Mutex(true, "Local\\CodexGameActivityTest_" + executable.ToLowerInvariant(), out created))
         {
             if (!created)
             {
-                MessageBox.Show("Close the other activity test before starting this one.", "Activity test");
+                MessageBox.Show(game + " is already running. You can start other games at the same time.", "Activity test");
                 return 1;
             }
 
