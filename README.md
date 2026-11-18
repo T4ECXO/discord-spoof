@@ -1,6 +1,6 @@
 # Discord Spoof
 
-A Windows Forms activity test utility with launchers for ten application names.
+A Windows Forms activity test utility with launchers for eleven application names.
 The included executables are dummy processes, not the actual games or browser.
 Discord detection and quest completion are unverified.
 
@@ -26,4 +26,4 @@ or modify Discord.
 
 The project includes launchers and small prebuilt executables for Roblox,
 MapleStory Classic World, Where Winds Meet, Honkai: Star Rail, Deadzone Rogue 2,
-Arknights: Endfield, Once Human, Firefox, EA Sports FC 27, and ASPHALT LEGENDS.
+Arknights: Endfield, Once Human, Delta Force, Firefox, EA Sports FC 27, and ASPHALT LEGENDS.

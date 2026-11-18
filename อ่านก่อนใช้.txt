@@ -1,8 +1,8 @@
 รวมโปรแกรมทดลองกิจกรรม — 13 พฤศจิกายน 2026
 
-มีทั้งหมด 10 ตัว:
+มีทั้งหมด 11 ตัว:
 Roblox, MapleStory Classic World, Where Winds Meet, Honkai: Star Rail,
-Deadzone Rogue 2, Arknights: Endfield, Once Human, Firefox, FC27 และ ASPHALT LEGENDS
+Deadzone Rogue 2, Arknights: Endfield, Once Human, Delta Force, Firefox, FC27 และ ASPHALT LEGENDS
 
 วิธีใช้
 1. แตก ZIP ทั้งหมด และเก็บโครงสร้างโฟลเดอร์ไว้ตามเดิม

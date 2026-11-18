@@ -22,6 +22,8 @@ internal static class ActivityTest
             game = "EA Sports FC 27";
         else if (executable.Equals("RobloxPlayerBeta.exe", StringComparison.OrdinalIgnoreCase))
             game = "Roblox";
+        else if (executable.Equals("DeltaForceClient-Win64-Shipping.exe", StringComparison.OrdinalIgnoreCase))
+            game = "Delta Force";
         else if (executable.Equals("once_human.exe", StringComparison.OrdinalIgnoreCase))
             game = "Once Human";
         else if (executable.Equals("firefox.exe", StringComparison.OrdinalIgnoreCase))
